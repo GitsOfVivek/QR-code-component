@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [QR Code Componenet Solution](https://www.frontendmentor.io/solutions/qr-code-component-MhLL3UtsJK)
+- Live Site URL: [Visit Live](https://vivek-qr-code-component.netlify.app/)
 
 ## My process
 
@@ -38,7 +38,7 @@ Use this section to recap over some of your major learnings while working throug
 
 ## Author
 
-- Website - [Vivek](https://vivek-responsive-resume-grid.netlify.app/)
+- Website - [Vivek](https://vivek-my-resume.netlify.app/)
 - Frontend Mentor - [@GitsOfVivek](https://www.frontendmentor.io/profile/GitsOfVivek)
 - Twitter - [@V1V3K__](https://twitter.com/V1V3K__)
 
